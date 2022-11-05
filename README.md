@@ -1,4 +1,4 @@
-<img align="center" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif)" alt="maheshrajaofficial" />
+<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <h1 align="center">Hi 👋, I'm Mahesh</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
@@ -23,4 +23,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maheshrajaofficial&show_icons=true&locale=en" alt="maheshrajaofficial" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maheshrajaofficial&" alt="maheshrajaofficial" /></p>
+<img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
 
